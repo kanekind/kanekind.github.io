@@ -1,0 +1,66 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "0458c99f9",
+        "0e14c5602",
+        "67ea12ee-7859-47ff-b01b-e89a442d49e3",
+        "775e4671-ff8a-4009-b5df-10f66797902f",
+        "abdf9419-17d7-4895-a63e-4dd0a5a33f03",
+        "abdf9419-17d7-4895-a63e-4dd0a5a33f03@6c48a",
+        "abdf9419-17d7-4895-a63e-4dd0a5a33f03@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "e374b9f2-e7b6-4ab5-b425-5498f2d34536",
+        "e374b9f2-e7b6-4ab5-b425-5498f2d34536@6c48a",
+        "e374b9f2-e7b6-4ab5-b425-5498f2d34536@f9941",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "67ea12ee-7859-47ff-b01b-e89a442d49e3": [
+            "db:/assets/breakout",
+            "cc.SceneAsset",
+            1
+        ],
+        "775e4671-ff8a-4009-b5df-10f66797902f": [
+            "db:/assets/main",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/breakout.scene": "67ea12ee-7859-47ff-b01b-e89a442d49e3",
+        "db://assets/main.scene": "775e4671-ff8a-4009-b5df-10f66797902f"
+    },
+    "packs": {
+        "0458c99f9": [
+            "abdf9419-17d7-4895-a63e-4dd0a5a33f03@6c48a",
+            "e374b9f2-e7b6-4ab5-b425-5498f2d34536@6c48a"
+        ],
+        "0e14c5602": [
+            "775e4671-ff8a-4009-b5df-10f66797902f",
+            "abdf9419-17d7-4895-a63e-4dd0a5a33f03@f9941",
+            "e374b9f2-e7b6-4ab5-b425-5498f2d34536@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
