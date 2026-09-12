@@ -1,0 +1,6 @@
+{
+ "version": "1.5.5",
+ "note": "版本自更新能力上线",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.5.5/2048.apk",
+ "web": "https://kanekind.github.io/2048/"
+}
