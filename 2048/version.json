@@ -1,6 +1,6 @@
 {
- "version": "1.7.2",
- "note": "kimi 视觉复验修复：祝福/事件撞车+徽章位置",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.2/2048.apk",
+ "version": "1.7.3",
+ "note": "双模型终审修复：molt软锁+shield2死祝福+点金手免单+分身固接线+模态拦截",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.3/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
