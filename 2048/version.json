@@ -1,6 +1,6 @@
 {
- "version": "1.7.1",
- "note": "体验流畅性：祝福延迟到首次合成+技能锁显示解锁条件+商店入口+时光沙漏解锁修复+事件前密后疏",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.1/2048.apk",
+ "version": "1.7.2",
+ "note": "kimi 视觉复验修复：祝福/事件撞车+徽章位置",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
