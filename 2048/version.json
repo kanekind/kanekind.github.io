@@ -1,6 +1,6 @@
 {
- "version": "1.7.4",
- "note": "kimi-k3 终审修复：免费续命生效+结算竞态+快照生命周期",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.4/2048.apk",
+ "version": "1.7.5",
+ "note": "kimi-k2.8 终审修复：免费蝉蜕上限接线+busy窗口首点+跨局清理",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.5/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
