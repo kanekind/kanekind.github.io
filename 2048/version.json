@@ -1,6 +1,6 @@
 {
- "version": "1.7.0",
- "note": "roguelike 变异性：开局祝福三选一+里程碑词缀+步数事件",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.0/2048.apk",
+ "version": "1.7.1",
+ "note": "体验流畅性：祝福延迟到首次合成+技能锁显示解锁条件+商店入口+时光沙漏解锁修复+事件前密后疏",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
