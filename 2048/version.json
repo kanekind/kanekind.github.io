@@ -1,6 +1,6 @@
 {
- "version": "1.6.3",
- "note": "ego 实玩验证版：文案优化",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.6.3/2048.apk",
+ "version": "1.6.4",
+ "note": "双模型视觉QA修复：天降技能栏显示bug+今日最佳实时化",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.6.4/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
