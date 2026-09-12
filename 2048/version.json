@@ -1,6 +1,6 @@
 {
- "version": "1.6.1",
- "note": "主动技能系统正式版：7技能+弹卡+代价+情境提示",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.6.1/2048.apk",
+ "version": "1.6.2",
+ "note": "样式修复：布局间距+ASCII字体+金币位置",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.6.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
