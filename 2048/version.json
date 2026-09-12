@@ -1,6 +1,6 @@
 {
- "version": "1.6.4",
- "note": "双模型视觉QA修复：天降技能栏显示bug+今日最佳实时化",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.6.4/2048.apk",
+ "version": "1.7.0",
+ "note": "roguelike 变异性：开局祝福三选一+里程碑词缀+步数事件",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.7.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
