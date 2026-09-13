@@ -1,6 +1,6 @@
 {
- "version": "1.8.0",
- "note": "事件池5→14种+常驻倒计时+逐级toast预告",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.8.0/2048.apk",
+ "version": "1.8.1",
+ "note": "卡死修复：卡片关闭清 pending+同帧可滑动",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.8.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
