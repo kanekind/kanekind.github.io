@@ -1,6 +1,6 @@
 {
- "version": "1.8.1",
- "note": "卡死修复：卡片关闭清 pending+同帧可滑动",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.8.1/2048.apk",
+ "version": "1.8.2",
+ "note": "双模型复盘5连修：按钮加宽/背景融合/结算增强/描边分级/金币引导",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v1.8.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
