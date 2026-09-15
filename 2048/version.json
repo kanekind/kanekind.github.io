@@ -1,6 +1,6 @@
 {
- "version": "3.2.1",
- "note": "双模型审查修复+武器阶级（手枪→霰弹→机枪→装甲车→坦克）+弹药经济/新手引导优化",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.2.1/2048.apk",
+ "version": "3.2.2",
+ "note": "射程判定省弹（远处僵尸不开火）——修复第1波弹药枯竭恶性循环",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.2.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
