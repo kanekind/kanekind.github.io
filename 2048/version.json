@@ -1,6 +1,6 @@
 {
- "version": "3.3.1",
- "note": "双模型4轮循环修复：军火商经济平衡（掉币20%）+统一切阶换算+铁壁血条+军火按钮",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.3.1/2048.apk",
+ "version": "3.4.0",
+ "note": "像素画人物：具体枪手（头盔军装持枪）+6种僵尸（红眼/类型配色体型差异）+战斗带加高人物放大",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.4.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
