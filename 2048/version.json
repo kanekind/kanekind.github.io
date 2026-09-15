@@ -1,6 +1,6 @@
 {
- "version": "2.0.0",
- "note": "大改版：UI 全面重构（三卡头部/橙色主按钮/技能栏图标化/隐藏种子行）+ 玩法提速（解锁门槛大幅前置/祝福开局即弹）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v2.0.0/2048.apk",
+ "version": "3.0.0",
+ "note": "战斗改版：顶部小人打僵尸+2048合成供弹+波次升级卡（武器线/合成线三选一）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.0.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
