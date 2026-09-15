@@ -1,6 +1,6 @@
 {
- "version": "3.0.0",
- "note": "战斗改版：顶部小人打僵尸+2048合成供弹+波次升级卡（武器线/合成线三选一）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.0.0/2048.apk",
+ "version": "3.1.0",
+ "note": "Roguelike 丰富度大扩充：僵尸6种+BOSS波+遗物8件+稀有度升级+诅咒事件+战斗祝福",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.1.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
