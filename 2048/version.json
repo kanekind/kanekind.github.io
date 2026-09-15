@@ -1,6 +1,6 @@
 {
- "version": "3.1.0",
- "note": "Roguelike 丰富度大扩充：僵尸6种+BOSS波+遗物8件+稀有度升级+诅咒事件+战斗祝福",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.1.0/2048.apk",
+ "version": "3.2.1",
+ "note": "双模型审查修复+武器阶级（手枪→霰弹→机枪→装甲车→坦克）+弹药经济/新手引导优化",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.2.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
