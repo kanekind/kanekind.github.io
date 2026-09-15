@@ -1,6 +1,6 @@
 {
- "version": "3.2.2",
- "note": "射程判定省弹（远处僵尸不开火）——修复第1波弹药枯竭恶性循环",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.2.2/2048.apk",
+ "version": "3.3.0",
+ "note": "军火商（金币买枪械阶级）+字体子集根治乱码+棋盘下移+卡片提亮",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.3.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
