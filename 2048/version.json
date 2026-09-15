@@ -1,6 +1,6 @@
 {
- "version": "3.3.0",
- "note": "军火商（金币买枪械阶级）+字体子集根治乱码+棋盘下移+卡片提亮",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.3.0/2048.apk",
+ "version": "3.3.1",
+ "note": "双模型4轮循环修复：军火商经济平衡（掉币20%）+统一切阶换算+铁壁血条+军火按钮",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.3.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
