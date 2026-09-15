@@ -1,6 +1,6 @@
 {
- "version": "3.4.0",
- "note": "像素画人物：具体枪手（头盔军装持枪）+6种僵尸（红眼/类型配色体型差异）+战斗带加高人物放大",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.4.0/2048.apk",
+ "version": "3.4.1",
+ "note": "三模型体验优化：合成产弹飘字（因果可见）+祝福延迟到第8步+高血量僵尸显示数字",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.4.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
