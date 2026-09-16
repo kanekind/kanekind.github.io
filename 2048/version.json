@@ -1,6 +1,6 @@
 {
  "version": "3.6.0",
- "note": "k3 极致盘点修复轮：6 个代码 bug+设计缺陷修正+平衡折中（弹药张力/僵尸强度/祝福重试）",
+ "note": "重开修复：busy中点新游戏不再吞点击（效果叠加根因）+祝福分支多余spawn清除",
  "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.6.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
