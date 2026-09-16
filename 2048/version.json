@@ -1,6 +1,6 @@
 {
- "version": "3.6.1",
- "note": "重开修复：busy中点新游戏不再吞点击（效果叠加根因）+祝福分支多余spawn清除",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.6.0/2048.apk",
+ "version": "3.6.2",
+ "note": "军火入口强化：橙色「军火·升级」按钮+枪手旁常驻武器名（伤害/射速）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.6.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
