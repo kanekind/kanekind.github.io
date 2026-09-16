@@ -1,6 +1,6 @@
 {
- "version": "3.7.0",
- "note": "战斗带大改版：占比24%（夜空/月亮/墓碑/枯树/地面分层场景）+人物重画（16行像素+描边+阴影立体感）+枪手75px+僵尸65-85px",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.7.0/2048.apk",
+ "version": "3.8.0",
+ "note": "减法改版：开局祝福删除（并入波次卡）+卡片改底部抽屉（不挡战斗带）+术语简化（火力+/修墙/供弹+）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
