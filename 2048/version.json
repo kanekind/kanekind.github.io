@@ -1,6 +1,6 @@
 {
- "version": "3.8.3",
- "note": "打击感：命中白闪+伤害数字+火花特效",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.3/2048.apk",
+ "version": "3.8.4",
+ "note": "体检修复：击杀分数实时同步最高分+月亮让位波次字+顶部文字防裁切",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.4/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
