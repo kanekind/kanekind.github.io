@@ -1,6 +1,6 @@
 {
- "version": "3.6.2",
- "note": "军火入口强化：橙色「军火·升级」按钮+枪手旁常驻武器名（伤害/射速）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.6.2/2048.apk",
+ "version": "3.7.0",
+ "note": "战斗带大改版：占比24%（夜空/月亮/墓碑/枯树/地面分层场景）+人物重画（16行像素+描边+阴影立体感）+枪手75px+僵尸65-85px",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.7.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
