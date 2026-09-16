@@ -1,6 +1,6 @@
 {
- "version": "3.5.0",
- "note": "大连击扫射+事件横幅化+版本比较修复+弹药经济放宽+首波8只提速",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.5.0/2048.apk",
+ "version": "3.6.0",
+ "note": "k3 极致盘点修复轮：6 个代码 bug+设计缺陷修正+平衡折中（弹药张力/僵尸强度/祝福重试）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.6.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
