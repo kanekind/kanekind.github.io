@@ -1,6 +1,6 @@
 {
- "version": "3.8.0",
- "note": "减法改版：开局祝福删除（并入波次卡）+卡片改底部抽屉（不挡战斗带）+术语简化（火力+/修墙/供弹+）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.0/2048.apk",
+ "version": "3.8.1",
+ "note": "祝福选项只出一次（修复反复弹出）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
