@@ -1,6 +1,6 @@
 {
- "version": "3.8.1",
- "note": "祝福选项只出一次（修复反复弹出）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.1/2048.apk",
+ "version": "3.8.2",
+ "note": "子弹位置修复：从枪口射出+与僵尸胸口同高飞行（视觉=判定统一）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.8.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
