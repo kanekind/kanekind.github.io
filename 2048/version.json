@@ -1,6 +1,6 @@
 {
- "version": "3.10.0",
- "note": "画面大改：多层场景（星空/月亮辉光/城市废墟剪影/路灯暖光/草丛石子）+曳光弹+枪口火光",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.10.0/2048.apk",
+ "version": "3.10.3",
+ "note": "双模型验收轮：修无限出怪/跳弹/弹道扫描线+波次21s节奏+供弹经济+穿透弹×7伤害+僵尸血条黑底",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.10.3/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
