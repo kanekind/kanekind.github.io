@@ -1,6 +1,6 @@
 {
- "version": "3.11.1",
- "note": "实机反馈修复：军火按钮防遮挡(z100/右上)+产弹曲线放宽+掉币13%+伤害飘字显示实际扣血",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.1/2048.apk",
+ "version": "3.11.2",
+ "note": "用户反馈修复：子弹从枪口射出（弹道渐近目标）+字体全量重建（428缺字）+事件横幅让位分数区+射速单位",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
