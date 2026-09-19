@@ -1,6 +1,6 @@
 {
- "version": "3.11.0",
- "note": "动画与细节轮：僵尸走路起伏+死亡倒地动画+楼宇战损+HUD两行+防僵尸堆叠+祝福卡中文名",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.0/2048.apk",
+ "version": "3.11.1",
+ "note": "实机反馈修复：军火按钮防遮挡(z100/右上)+产弹曲线放宽+掉币13%+伤害飘字显示实际扣血",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
