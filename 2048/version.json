@@ -1,6 +1,6 @@
 {
- "version": "3.11.2",
- "note": "字体门禁固化+整体实玩验收（120秒BOSS第5波全链路正常）+换弹小字避让血条",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.2/2048.apk",
+ "version": "3.11.3",
+ "note": "ego 多局实测修复：◆稀有度缺字+挂机波次卡冻结(12s自动选)+死亡残卡清理+撞墙死亡动画类型错误",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.3/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
