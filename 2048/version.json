@@ -1,6 +1,6 @@
 {
  "version": "3.11.2",
- "note": "用户反馈修复：子弹从枪口射出（弹道渐近目标）+字体全量重建（428缺字）+事件横幅让位分数区+射速单位",
+ "note": "字体门禁固化+整体实玩验收（120秒BOSS第5波全链路正常）+换弹小字避让血条",
  "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.2/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
