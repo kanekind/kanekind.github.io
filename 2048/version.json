@@ -1,6 +1,6 @@
 {
- "version": "3.10.3",
- "note": "双模型验收轮：修无限出怪/跳弹/弹道扫描线+波次21s节奏+供弹经济+穿透弹×7伤害+僵尸血条黑底",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.10.3/2048.apk",
+ "version": "3.11.0",
+ "note": "动画与细节轮：僵尸走路起伏+死亡倒地动画+楼宇战损+HUD两行+防僵尸堆叠+祝福卡中文名",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
