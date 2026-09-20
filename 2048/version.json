@@ -1,6 +1,6 @@
 {
- "version": "3.11.3",
- "note": "ego 多局实测修复：◆稀有度缺字+挂机波次卡冻结(12s自动选)+死亡残卡清理+撞墙死亡动画类型错误",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.3/2048.apk",
+ "version": "3.11.4",
+ "note": "深测修复：场景节点重复挂载(3处ERROR)✚军火金币不足明示",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.4/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
