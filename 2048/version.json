@@ -1,6 +1,6 @@
 {
- "version": "3.11.4",
- "note": "深测修复：场景节点重复挂载(3处ERROR)✚军火金币不足明示",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.4/2048.apk",
+ "version": "3.11.5",
+ "note": "全模型验证轮：bar_bg泄漏+stylebox引用污染+BOSS读卡期偷刷",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.5/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
