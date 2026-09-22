@@ -1,6 +1,6 @@
 {
- "version": "3.11.5",
- "note": "全模型验证轮：bar_bg泄漏+stylebox引用污染+BOSS读卡期偷刷",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.11.5/2048.apk",
+ "version": "3.12.0",
+ "note": "Jev 平衡轮：墙上限随波次成长100+15w+tank/boom削伤+清波奖3币+击杀掉弹20%x3",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.12.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
