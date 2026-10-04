@@ -1,6 +1,6 @@
 {
- "version": "3.17.0",
- "note": "juice 四件套：屏幕震动/连杀播报/near-miss/里程碑星",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.17.0/2048.apk",
+ "version": "3.18.0",
+ "note": "枪手换 CC0 素材（idle+射击动画）+僵尸统一比例",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.18.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
