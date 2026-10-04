@@ -1,6 +1,6 @@
 {
- "version": "3.14.0",
- "note": "局外成长 meta 上线：弹药库容/城墙加固/商业头脑三条永久成长线+击杀音效+结算击杀统计+卡稀有度色条",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.14.0/2048.apk",
+ "version": "3.15.0",
+ "note": "素材升级：CC0 Q版僵尸（4帧走路动画）+椭圆渐变真曳光弹",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.15.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
