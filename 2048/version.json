@@ -1,6 +1,6 @@
 {
- "version": "3.12.0",
- "note": "Jev 平衡轮：墙上限随波次成长100+15w+tank/boom削伤+清波奖3币+击杀掉弹20%x3",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.12.0/2048.apk",
+ "version": "3.13.0",
+ "note": "画面优化轮：夜色光照系统（CanvasModulate 夜蓝基调+草地入夜+Sprite径向光斑路灯/月光/枪口爆闪 Add混合）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.13.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
