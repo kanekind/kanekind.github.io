@@ -1,6 +1,6 @@
 {
- "version": "3.18.0",
- "note": "枪手换 CC0 素材（idle+射击动画）+僵尸统一比例",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.18.0/2048.apk",
+ "version": "3.19.0",
+ "note": "音效分层/UI 夜色融合/新手引导/连杀位修正",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.19.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
