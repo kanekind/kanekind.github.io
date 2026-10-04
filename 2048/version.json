@@ -1,6 +1,6 @@
 {
- "version": "3.13.0",
- "note": "画面优化轮：夜色光照系统（CanvasModulate 夜蓝基调+草地入夜+Sprite径向光斑路灯/月光/枪口爆闪 Add混合）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.13.0/2048.apk",
+ "version": "3.14.0",
+ "note": "局外成长 meta 上线：弹药库容/城墙加固/商业头脑三条永久成长线+击杀音效+结算击杀统计+卡稀有度色条",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.14.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
