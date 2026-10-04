@@ -1,6 +1,6 @@
 {
- "version": "3.15.0",
- "note": "素材升级：CC0 Q版僵尸（4帧走路动画）+椭圆渐变真曳光弹",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.15.0/2048.apk",
+ "version": "3.16.0",
+ "note": "性能+美术：bob降频/火花减半/纹理缓存/武器阶级光环/死亡闪烁",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.16.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
