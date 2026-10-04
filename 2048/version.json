@@ -1,6 +1,6 @@
 {
- "version": "3.16.0",
- "note": "性能+美术：bob降频/火花减半/纹理缓存/武器阶级光环/死亡闪烁",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.16.0/2048.apk",
+ "version": "3.17.0",
+ "note": "juice 四件套：屏幕震动/连杀播报/near-miss/里程碑星",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.17.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
