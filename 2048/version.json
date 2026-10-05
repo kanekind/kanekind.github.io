@@ -1,6 +1,6 @@
 {
- "version": "3.19.0",
- "note": "音效分层/UI 夜色融合/新手引导/连杀位修正",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.19.0/2048.apk",
+ "version": "3.20.0",
+ "note": "夜色一体化（页面/棋盘/色板）+火焰喷射器（第6武器）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.20.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
