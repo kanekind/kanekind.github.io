@@ -1,6 +1,6 @@
 {
- "version": "3.22.0",
- "note": "趣味三件：宝箱/瓜瓜僵尸+幸运转盘",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.22.0/2048.apk",
+ "version": "3.22.1",
+ "note": "ego 实玩四局修复：结算页星+目标合并显示",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.22.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
