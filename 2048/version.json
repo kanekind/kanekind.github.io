@@ -1,6 +1,6 @@
 {
- "version": "3.20.0",
- "note": "夜色一体化（页面/棋盘/色板）+火焰喷射器（第6武器）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.20.0/2048.apk",
+ "version": "3.21.0",
+ "note": "射击音分层/结算下一目标/技能栏可读性/动画调用修复",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.21.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
