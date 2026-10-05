@@ -1,6 +1,6 @@
 {
- "version": "3.22.2",
- "note": "体验修复：模态滑动提示+规则字对比度",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.22.2/2048.apk",
+ "version": "3.23.0",
+ "note": "内容扩展：成就系统10枚+新僵尸吐酸怪",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.23.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
