@@ -1,6 +1,6 @@
 {
- "version": "3.21.0",
- "note": "射击音分层/结算下一目标/技能栏可读性/动画调用修复",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.21.0/2048.apk",
+ "version": "3.22.0",
+ "note": "趣味三件：宝箱/瓜瓜僵尸+幸运转盘",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.22.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
