@@ -1,6 +1,6 @@
 {
- "version": "3.24.0",
- "note": "新圣物三件：吸血鬼牙/狂暴血清/幸运硬币",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.24.0/2048.apk",
+ "version": "3.24.1",
+ "note": "iOS 真机反馈修复：结算拆行/金币卡重复/武器名裁切",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.24.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
