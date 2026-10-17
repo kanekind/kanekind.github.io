@@ -1,6 +1,6 @@
 {
- "version": "3.27.1",
- "note": "军火入口移底部+按钮/弹窗文字放大",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.27.1/2048.apk",
+ "version": "3.28.0",
+ "note": "视觉审查轮：入口避敌路/金币不足简化/HUD描边/空格提亮",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.28.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
