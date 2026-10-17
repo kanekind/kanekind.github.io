@@ -1,6 +1,6 @@
 {
- "version": "3.28.0",
- "note": "视觉审查轮：入口避敌路/金币不足简化/HUD描边/空格提亮",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.28.0/2048.apk",
+ "version": "3.28.1",
+ "note": "多模型审查：撞墙越界修复+武器行隐形+规则条重叠",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.28.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
