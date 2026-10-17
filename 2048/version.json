@@ -1,6 +1,6 @@
 {
- "version": "3.25.0",
- "note": "视觉重做：GitHub 原版经典色板回归+割裂修复",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.25.0/2048.apk",
+ "version": "3.26.0",
+ "note": "枪手换装：Sput CC0 战术士兵（头盔/AK/护目镜）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.26.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
