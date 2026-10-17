@@ -1,6 +1,6 @@
 {
- "version": "3.27.0",
- "note": "武器外观 6 阶换枪+精英僵尸（同包风格统一）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.27.0/2048.apk",
+ "version": "3.27.1",
+ "note": "军火入口移底部+按钮/弹窗文字放大",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.27.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
