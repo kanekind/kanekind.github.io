@@ -1,6 +1,6 @@
 {
- "version": "3.26.0",
- "note": "枪手换装：Sput CC0 战术士兵（头盔/AK/护目镜）",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.26.0/2048.apk",
+ "version": "3.27.0",
+ "note": "武器外观 6 阶换枪+精英僵尸（同包风格统一）",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.27.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
