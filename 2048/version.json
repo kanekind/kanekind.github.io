@@ -1,6 +1,6 @@
 {
- "version": "3.28.1",
- "note": "多模型审查：撞墙越界修复+武器行隐形+规则条重叠",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.28.1/2048.apk",
+ "version": "3.29.0",
+ "note": "全局字号+2px（语音反馈：所有字都太小）+容器适配",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.29.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
