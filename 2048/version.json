@@ -1,6 +1,6 @@
 {
- "version": "3.32.1",
- "note": "flash 复审：重开清酸弹/血条背景偏移/撤销多余修改",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.32.1/2048.apk",
+ "version": "3.33.0",
+ "note": "三模型 UI 区审查：蝉蜕固覆盖/横幅按钮泄漏/技能提示",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.33.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
