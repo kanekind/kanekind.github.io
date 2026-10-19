@@ -1,6 +1,6 @@
 {
- "version": "3.30.0",
- "note": "kimi 审查 8 修：溅射走尸/血条泄漏/空引用/击杀IO",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.30.0/2048.apk",
+ "version": "3.30.1",
+ "note": "GLM 审查 3 修：吸血牙刷条/重开局部满条/防重叠",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.30.1/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
