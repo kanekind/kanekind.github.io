@@ -1,6 +1,6 @@
 {
- "version": "3.29.1",
- "note": "视觉复审三修：规则条紧凑/武器行描边/弹窗标题精简",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.29.1/2048.apk",
+ "version": "3.30.0",
+ "note": "kimi 审查 8 修：溅射走尸/血条泄漏/空引用/击杀IO",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.30.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
