@@ -1,6 +1,6 @@
 {
- "version": "3.31.0",
- "note": "GLM-5.3 审查：分裂体配件悬空/瓜瓜血量数字/连杀标签悬挂/武器行截断",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.31.0/2048.apk",
+ "version": "3.32.0",
+ "note": "DeepSeek 交叉审：死后酸弹/防重叠真修/分裂特殊污染/瓜瓜血条",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.32.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
