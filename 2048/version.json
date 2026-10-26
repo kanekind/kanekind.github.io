@@ -1,6 +1,6 @@
 {
- "version": "3.35.0",
- "note": "ego 实玩+vision 审查：2/4 块字色对比度/暂停角标/规则条层次",
- "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.35.0/2048.apk",
+ "version": "3.36.0",
+ "note": "末段扫尾：跨局状态清理/rainbow悬垂/遗物判空/首手撤销",
+ "apk": "https://github.com/kanekind/kanekind.github.io/releases/download/v3.36.0/2048.apk",
  "web": "https://kanekind.github.io/2048/"
 }
