@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LearnLoop</title>
+<style>
+body{font-family:-apple-system,PingFang SC,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#f2f2f7;color:#333}
+.card{background:#fff;border-radius:16px;padding:32px 28px;max-width:340px;width:90%;box-shadow:0 2px 12px rgba(0,0,0,.08);text-align:center}
+h1{font-size:20px;margin:8px 0}
+p{font-size:14px;color:#666;line-height:1.6}
+#s{font-size:40px}
+</style>
+</head>
+<body>
+<div class="card">
+<div id="s">📚</div>
+<h1>LearnLoop</h1>
+<p id="msg">正在连接学习服务…</p>
+</div>
+<script>
+// 固定入口：目标隧道地址存在 redirect.json，隧道变了只改 json，不改 App
+fetch('https://kanekind.github.io/learnloop/redirect.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    if (d && d.target) {
+      document.getElementById('msg').textContent = '正在进入…';
+      location.replace(d.target);
+    } else throw new Error('no target');
+  })
+  .catch(() => {
+    document.getElementById('msg').innerHTML = '暂时连不上学习服务<br><br>请稍后再试，或联系管理员更新地址';
+  });
+</script>
+</body>
+</html>
