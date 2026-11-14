@@ -8,8 +8,10 @@
 body{font-family:-apple-system,PingFang SC,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#f2f2f7;color:#333}
 .card{background:#fff;border-radius:16px;padding:32px 28px;max-width:340px;width:90%;box-shadow:0 2px 12px rgba(0,0,0,.08);text-align:center}
 h1{font-size:20px;margin:8px 0}
-p{font-size:14px;color:#666;line-height:1.6}
+p{font-size:14px;color:#666;line-height:1.6;word-break:break-all}
 #s{font-size:40px}
+.err{color:#ff3b30;font-size:12px;background:#fff2f2;border-radius:8px;padding:8px;margin-top:10px;text-align:left;font-family:Menlo,monospace}
+button{margin-top:16px;width:100%;padding:11px;border-radius:10px;border:0;background:#007aff;color:#fff;font-size:15px}
 </style>
 </head>
 <body>
@@ -17,20 +19,36 @@ p{font-size:14px;color:#666;line-height:1.6}
 <div id="s">📚</div>
 <h1>LearnLoop</h1>
 <p id="msg">正在连接学习服务…</p>
+<div id="errbox" style="display:none" class="err"></div>
+<button id="retry" style="display:none" onclick="location.reload()">重试</button>
 </div>
 <script>
-// 固定入口：目标隧道地址存在 redirect.json，隧道变了只改 json，不改 App
-fetch('https://kanekind.github.io/learnloop/redirect.json?t=' + Date.now())
-  .then(r => r.json())
+// 固定入口：目标地址在 redirect.json。分层报错展示（2026-11-15：用户反馈卡「正在进入」无信息）
+function showErr(stage, detail) {
+  document.getElementById('msg').textContent = '连接失败';
+  var eb = document.getElementById('errbox');
+  eb.style.display = 'block';
+  eb.innerHTML = '【' + stage + '】' + String(detail).slice(0, 200);
+  document.getElementById('retry').style.display = 'block';
+  document.getElementById('s').textContent = '⚠️';
+}
+var timeoutId = setTimeout(function(){ showErr('超时', '10 秒内未完成连接——服务可能休眠') }, 10000);
+
+fetch('https://kanekind.github.io/learnloop/redirect.json?t=' + Date.now(), {cache: 'no-store'})
+  .then(r => { if (!r.ok) throw new Error('入口配置 HTTP ' + r.status); return r.json(); })
   .then(d => {
-    if (d && d.target) {
-      document.getElementById('msg').textContent = '正在进入…';
-      location.replace(d.target);
-    } else throw new Error('no target');
+    if (!d || !d.target) throw new Error('入口配置格式错误');
+    document.getElementById('msg').textContent = '正在进入…';
+    // 先探测目标可达（HEAD 不行就 GET manifest），失败给出具体错误而非白屏等待
+    return fetch(d.target + 'manifest.json', {cache: 'no-store'})
+      .then(tr => {
+        if (!tr.ok) throw new Error('学习服务响应 HTTP ' + tr.status);
+        clearTimeout(timeoutId);
+        location.replace(d.target);
+      })
+      .catch(te => { throw new Error('学习服务不可达: ' + (te.message || '网络错误') + '（Mac 在线？隧道断开？）'); });
   })
-  .catch(() => {
-    document.getElementById('msg').innerHTML = '暂时连不上学习服务<br><br>请稍后再试，或联系管理员更新地址';
-  });
+  .catch(e => { clearTimeout(timeoutId); showErr('连接', e.message); });
 </script>
 </body>
 </html>
